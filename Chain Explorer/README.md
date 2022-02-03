@@ -1,1 +1,1 @@
-# @polkadot/app-explorer
+# MPOWA Chain explorer
