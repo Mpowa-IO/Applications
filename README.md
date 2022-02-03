@@ -1,2 +1,2 @@
-# dApps
-Decentralised Applications
+# Applications
+(Decentralised) Applications
